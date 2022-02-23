@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMFlaviu
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning ...Kotlin
+- 🌱 I’m currently learning ...KMM
 <!---  -- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me flaviumacri@gmail.com
 
